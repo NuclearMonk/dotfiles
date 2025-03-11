@@ -1,6 +1,5 @@
 import tkinter as tk
 import subprocess
-import keyboard
 from tkinter import PhotoImage
 
 WINDOW_WIDTH = 400 
