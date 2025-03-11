@@ -78,7 +78,7 @@
     },
     "custom/power":{
         "format": " ",
-        "on-click": "bash ~/.config/waybar/scripts/shutdown.sh",
+        "on-click": "bash ~/.config/waybar/scripts/shutdown.sh"
     },
     // The code following below is given in the great documentation for Waybar status bar under Useful Utilities in Hyprland wiki
     "hyrpland/workspaces": {
