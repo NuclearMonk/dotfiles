@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type= Application
-Name = Polybar
-Exec = /home/NuclearMonk/.config/autostart/autorun.sh
-Hidden = true
+Type=Application
+Name=Polybar
+Exec=/home/NuclearMonk/.config/autostart/autorun.sh
+Hidden=true
