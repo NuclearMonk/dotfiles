@@ -10,4 +10,4 @@
 # here, since multilingual X sessions would not work properly if LANG is over-
 # ridden in every subshell.
 
-export XDG_CONFIG_HOME="~/.config"
+export XDG_CONFIG_HOME="/home/NuclearMonk/.config"
