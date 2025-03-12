@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type= Application
+Name = Polybar
+Exec = ~/.config/autostart/autorun.sh
+Hidden = true
