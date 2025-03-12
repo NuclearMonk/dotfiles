@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=Polybar
-Exec=bash ~/.config/autostart/autorun.sh
+Exec=~/.config/autostart/autorun.sh
 Hidden=true
