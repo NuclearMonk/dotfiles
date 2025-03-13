@@ -6,3 +6,5 @@ if [ -f "/tmp/leftwm-theme-down" ]; then
     rm /tmp/leftwm-theme-down
 fi
 ln -s $SCRIPTPATH/down /tmp/leftwm-theme-down
+polybar &
+nm-applet --indicator &
