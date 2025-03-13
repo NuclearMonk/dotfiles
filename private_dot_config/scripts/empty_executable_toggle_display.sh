@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 
-if  [[ $(brightnessctl -m g | grep -qz '^0$') -eq 0 ]]; then
+if  [[ $(brightnessctl -m g | grep -qz '^0$') -eq '0' ]]; then
 	echo WTF;
 	brightnessctl -r
 else
