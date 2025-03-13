@@ -126,7 +126,6 @@
 	(command: Execute, value: "brightnessctl s 10%+", modifier: [], key: "XF86MonBrightnessUp"),
 	(command: Execute, value: "~/.config/scripts/toggle_display.sh", modifier: [], key: "XF86Display"),
 	(command: Execute, value: "notify-send 'ALT F9'", modifier: ["Alt"], key: "F9"),
-	(command: Execute, value: "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle", modifier: [], key: "XF86AudioMute"),
     ],
     state_path: None,
 )
