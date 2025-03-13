@@ -21,3 +21,4 @@ fi
 leftwm-command "LoadTheme $SCRIPTPATH/theme.ron"
 
 polybar > /dev/null & disown
+nm-applet --indicator & disown
