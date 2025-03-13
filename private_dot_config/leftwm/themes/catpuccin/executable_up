@@ -20,11 +20,4 @@ fi
 #set the theme.ron config
 leftwm-command "LoadTheme $SCRIPTPATH/theme.ron"
 
-#set background
-if [ -x "$(command -v feh)" ]; then
-  feh --bg-scale $SCRIPTPATH/background.jpg
-fi
-
-
-
-$(polybar -m)
+polybar > /dev/null & disown
