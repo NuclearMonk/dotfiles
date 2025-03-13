@@ -1,6 +1,8 @@
-(border_width: 1,
+#![enable(implicit_some)]
+(
+border_width: 5,
 margin: 20,
-default_border_color: "#222222",
-floating_border_color: "#005500",
-focused_border_color: "#FFB53A",
+default_border_color: "#11111b",
+floating_border_color: "#181825",
+focused_border_color: "#7aC7EC",
 )
