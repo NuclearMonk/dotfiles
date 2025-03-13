@@ -1,2 +1,0 @@
-polybar &
-nm-applet --indicator &
