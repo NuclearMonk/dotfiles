@@ -2,7 +2,7 @@
 
 
 if  [[ $(brightnessctl -m g | grep -qz '^0$') -eq '0' ]]; then
-	echo WTF;
+	echo $(brightnessctl -m g | grep -qz '^0$');
 	brightnessctl -r
 else
 	brightnessctl -s 
