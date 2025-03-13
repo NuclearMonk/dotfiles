@@ -122,6 +122,8 @@
 	(command: Execute, value: "wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-", modifier: [], key: "XF86AudioLowerVolume"),
 	(command: Execute, value: "wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+", modifier: [], key: "XF86AudioRaiseVolume"),
 	(command: Execute, value: "amixer set Capture toggle && amixer get Capture | grep '\\[off\\]' && notify-send 'MIC switched OFF' || notify-send 'MIC switched ON'", modifier: [], key: "XF86AudioMicMute"),
+	(command: Execute, value: "brightnessctl s 10%-", modifier: [], key: "XF86BrightnessDown"),
+	(command: Execute, value: "brightnessctl s 10%+", modifier: [], key: "XF86BrightnessUp"),
     ],
     state_path: None,
 )
