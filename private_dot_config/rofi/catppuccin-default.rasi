@@ -86,7 +86,8 @@ element-icon {
 window {
     padding:          5;
     background-color: @background;
-    border:           1;
+    border:           4;
+    border-radius : 8;
 }
 mainbox {
     padding: 0;
