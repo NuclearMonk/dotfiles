@@ -80,7 +80,7 @@ element-text {
 }
 element-icon {
     background-color: transparent;
-    size:             1.0000em ;
+    size:             2.0000em ;
     cursor:           inherit;
     text-color:       inherit;
 }
