@@ -1,6 +1,6 @@
 #![enable(implicit_some)]
 (
-border_width: 2,
+border_width: 10,
 margin: 4,
 workspace-margin: 4,
 default_border_color: "#11111b",
