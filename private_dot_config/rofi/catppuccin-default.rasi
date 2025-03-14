@@ -90,6 +90,7 @@ window {
     background-color: @background;
     border:           4;
     border-radius : 8;
+    width: 500;
 }
 mainbox {
     padding: 0;
