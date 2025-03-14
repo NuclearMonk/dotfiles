@@ -96,7 +96,7 @@ mainbox {
     border:  0;
 }
 message {
-    padding:      1px ;
+    padding:      5px ;
     border-color: @separatorcolor;
     border:       2px dash 0px 0px ;
 }
