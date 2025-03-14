@@ -87,7 +87,7 @@ element-icon {
 window {
     padding:          5;
     background-color: @background;
-    border:           4;
+    border:           2;
     border-radius : 8;
     width: 500;
 }
