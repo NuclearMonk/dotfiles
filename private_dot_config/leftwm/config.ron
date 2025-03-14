@@ -59,7 +59,7 @@
     layout_mode: Tag,
     insert_behavior: Bottom,
     scratchpad: [
-        (name: "Alacritty", args: None, value: "alacritty", x: 860, y: 390, height: 300, width: 200),
+        (name: "kitty", args: None, value: "alacritty", x: 860, y: 390, height: 300, width: 200),
     ],
     window_rules: [],
     disable_current_tag_swap: false,
@@ -79,6 +79,7 @@
         (command: Execute, value: "kitty", modifier: ["modkey"], key: "t"),
         (command: Execute, value: "firefox", modifier: ["modkey"], key: "w"),
         (command: Execute, value: "code", modifier: ["modkey"], key: "c"),
+        (command: ToggleFullScreen, modifier: ["modkey"], key: "f"),
         (command: CloseWindow, value: "", modifier: ["Alt"], key: "F4"),
         (command: SoftReload, value: "", modifier: ["modkey", "Shift"], key: "r"),
         (command: Execute, value: "loginctl kill-session $XDG_SESSION_ID", modifier: ["modkey", "Shift"], key: "x"),
