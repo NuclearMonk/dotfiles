@@ -13,7 +13,7 @@
   selected-urgent-background:  @red;
   alternate-active-background: @lightbg;
   spacing:                     2;
-  alternate-normal-foreground: @sapphire;
+  alternate-normal-foreground: @foreground;
   urgent-background:           @background;
   selected-normal-foreground:  @lightbg;
   active-foreground:           @blue;
