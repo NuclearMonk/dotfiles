@@ -2,7 +2,6 @@
 (
 border_width: 10,
 margin: 4,
-workspace-margin: 4,
 default_border_color: "#11111b",
 floating_border_color: "#181825",
 focused_border_color: "#7ac7ec",
