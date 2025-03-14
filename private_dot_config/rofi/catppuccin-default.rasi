@@ -171,3 +171,4 @@ textbox-prompt-colon {
     str:        ":";
     text-color: inherit;
 }
+/* vim:ft=css
