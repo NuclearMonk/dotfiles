@@ -3,7 +3,7 @@
 * {
   selected-active-foreground:  @background;
   lightfg:                     @text;
-  separatorcolor:              @foreground;
+  separatorcolor:              @sapphire;
   urgent-foreground:           @red;
   alternate-urgent-background: @lightbg;
   lightbg:                     @mantle;
@@ -13,7 +13,7 @@
   selected-urgent-background:  @red;
   alternate-active-background: @lightbg;
   spacing:                     2;
-  alternate-normal-foreground: @foreground;
+  alternate-normal-foreground: @sapphire;
   urgent-background:           @background;
   selected-normal-foreground:  @lightbg;
   active-foreground:           @blue;
