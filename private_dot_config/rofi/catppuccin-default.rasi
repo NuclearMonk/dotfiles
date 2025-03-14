@@ -1,7 +1,7 @@
 @import "catppuccin-mocha"
 
 * {
-  selected-active-foreground:  @background;
+  selected-active-foreground:  @sapphire;
   lightfg:                     @text;
   separatorcolor:              @sapphire;
   urgent-foreground:           @red;
