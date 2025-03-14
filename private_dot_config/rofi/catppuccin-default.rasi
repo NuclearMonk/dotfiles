@@ -32,7 +32,7 @@
 element {
     padding: 1px ;
     cursor:  pointer;
-    spacing: 5px ;
+    spacing: 30px ;
     border:  0;
     border-radius: 8;
 }
@@ -80,7 +80,7 @@ element-text {
 }
 element-icon {
     background-color: transparent;
-    size:             2.0000em ;
+    size:             1.0000em ;
     cursor:           inherit;
     text-color:       inherit;
 }
