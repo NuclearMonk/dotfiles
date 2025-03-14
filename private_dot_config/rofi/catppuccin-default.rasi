@@ -32,7 +32,7 @@
 element {
     padding: 1px ;
     cursor:  pointer;
-    spacing: 30px ;
+    spacing: 5px ;
     border:  0;
     border-radius: 8;
 }
