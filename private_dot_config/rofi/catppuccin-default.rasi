@@ -16,11 +16,11 @@
   alternate-normal-foreground: @foreground;
   urgent-background:           @background;
   selected-normal-foreground:  @lightbg;
-  active-foreground:           @sapphire;
+  active-foreground:           @blue;
   background:                  @base;
   selected-active-background:  @blue;
   active-background:           @background;
-  selected-normal-background:  @lightfg;
+  selected-normal-background:  @sapphire;
   alternate-normal-background: @lightbg;
   foreground:                  @text;
   selected-urgent-foreground:  @background;
