@@ -1,6 +1,6 @@
 #![enable(implicit_some)]
 (
-border_width: 2,
+border_width: 8,
 margin: 20,
 default_border_color: "#11111b",
 floating_border_color: "#181825",
