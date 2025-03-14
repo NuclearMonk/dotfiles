@@ -35,7 +35,7 @@ element {
     spacing: 5px ;
     border:  0;
     border-radius: 8;
-    height: 50;
+    height: 100;
 }
 element normal.normal {
     background-color: @normal-background;
