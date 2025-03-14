@@ -117,7 +117,7 @@ scrollbar {
     padding:      0;
     handle-width: 8px ;
     border:       0;
-    handle-color: @normal-foreground;
+    handle-color: @sapphire;
 }
 sidebar {
     border-color: @separatorcolor;
