@@ -20,5 +20,6 @@ fi
 #set the theme.ron config
 leftwm-command "LoadTheme $SCRIPTPATH/theme.ron"
 
-polybar > /dev/null & disown
-nm-applet --indicator & disown
+picom > /dev/null & 
+polybar > /dev/null &
+nm-applet --indicator & 
