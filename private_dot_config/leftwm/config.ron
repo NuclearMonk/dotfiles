@@ -131,6 +131,8 @@
 	(command: Execute, value: "playerctl previous", modifier: ["Alt"], key: "F9"),
 	(command: Execute, value: "playerctl play-pause", modifier: ["Alt"], key: "F10"),
 	(command: Execute, value: "playerctl next", modifier: ["Alt"], key: "F11"),
+	(command: Execute, value: "flameshot screen", modifier: ["Alt"], key: "Print"),
+	(command: Execute, value: "flameshot gui", modifier: [], key: "Print"),
     ],
     state_path: None,
 )
